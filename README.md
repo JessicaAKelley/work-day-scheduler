@@ -13,7 +13,6 @@ Create a work day scheduler that:
 - Displays current day at top of scheduler upon opening
 - Provides time blocks for standard business hours
 - Color codes time blocks to indicate whether in past, present, or future
-- Ends the game/quiz when all questions are answered OR timer reaches 0
 - Allows user to enter an event when clicking on a time block
 - Utilizes local storage to save event text
 
@@ -25,3 +24,4 @@ For additional details, please refer to the [Gitlab](https://ucb.bootcampcontent
 - CSS
 - JavaScript
 - JQuery
+- Bootstrap
