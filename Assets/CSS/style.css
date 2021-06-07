@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -44,28 +44,28 @@ textarea {
 
 .hour {
   background-color: #ffffff;
-  color: #275244;
-  border-top: 1px dashed #275244;
+  color: #000000;
+  border-top: 1px dashed #000000;
   border-top-left-radius: 9px;
   border-bottom-left-radius: 9px;
 }
 
 .past {
   background-color: #d3d3d3;
-  color: #275244;
+  color: black;
   font-style: italic;
   text-transform: capitalize;
 }
 
 .present {
   background-color: #ff6961;
-  color: white;
+  color: black;
   text-transform: capitalize;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: black;
   text-transform: capitalize;
 }
 
