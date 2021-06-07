@@ -4,7 +4,7 @@
 
 Check out this [work day scheduler](https://jessicaakelley.github.io/work-day-scheduler/)!
 
-[![website demo](docs/codequiz.gif)](https://media.giphy.com/media/rdsXFb9tmDxQaECimY/giphy.gif)
+[![website demo](Images/work-day-scheduler.gif)](https://media.giphy.com/media/6W2iYQfuuBAoBHTnO8/giphy.gif)
 
 ## The Task:
 
